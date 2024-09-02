@@ -1,0 +1,1 @@
+/home/cvl/ros_whill_ws/devel/.private/ros_whill/share/roseus/ros/ros_whill/msg/SpeedPack.l

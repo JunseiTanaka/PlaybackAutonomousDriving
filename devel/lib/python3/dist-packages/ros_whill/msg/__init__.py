@@ -1,0 +1,1 @@
+/home/cvl/ros_whill_ws/devel/.private/ros_whill/lib/python3/dist-packages/ros_whill/msg/__init__.py

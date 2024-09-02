@@ -1,0 +1,8 @@
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/catkin_install_python.cmake:86 (message):
+  catkin_install_python() called with non-existing file
+  '/home/cvl/ros_whill_ws/src/playback_manager/scripts/whill_rotate_180.py'.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:164 (catkin_install_python)
+
+
+make: *** [Makefile:1160: cmake_check_build_system] エラー 1

@@ -1,0 +1,8 @@
+prefix=/home/cvl/ros_whill_ws/devel/.private/ros_whill
+
+Name: ros_whill
+Description: Description of ros_whill
+Version: 0.0.0
+Cflags: -I/home/cvl/ros_whill_ws/devel/.private/ros_whill/include
+Libs: -L${prefix}/lib 
+Requires: 

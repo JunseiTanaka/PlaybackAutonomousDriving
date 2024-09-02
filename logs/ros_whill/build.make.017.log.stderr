@@ -1,0 +1,7 @@
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_gps_subscriber.cpp:7:10:[m[K [01;31m[Kfatal error: [m[Kstd_msgs/Float64: そのようなファイルやディレクトリはありません
+    7 | #include [01;31m[K<std_msgs/Float64>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ros_whill_gps_subscriber.dir/build.make:63: CMakeFiles/ros_whill_gps_subscriber.dir/src/whill_gps_subscriber.cpp.o] エラー 1
+make[1]: *** [CMakeFiles/Makefile2:498: CMakeFiles/ros_whill_gps_subscriber.dir/all] エラー 2
+make: *** [Makefile:141: all] エラー 2

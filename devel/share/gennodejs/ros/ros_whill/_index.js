@@ -1,0 +1,1 @@
+/home/cvl/ros_whill_ws/devel/.private/ros_whill/share/gennodejs/ros/ros_whill/_index.js

@@ -1,0 +1,17 @@
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_encoder_subscriber.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_encoder_subscriber.cpp:22:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kgps_file[m[K’ was not declared in this scope
+   22 |     if (![01;31m[Kgps_file[m[K.is_open() || !imu_file.is_open() || !odom_file.is_open()) {
+      |          [01;31m[K^~~~~~~~[m[K
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_encoder_subscriber.cpp:22:33:[m[K [01;31m[Kerror: [m[K‘[01m[Kimu_file[m[K’ was not declared in this scope
+   22 |     if (!gps_file.is_open() || ![01;31m[Kimu_file[m[K.is_open() || !odom_file.is_open()) {
+      |                                 [01;31m[K^~~~~~~~[m[K
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_imu_gps_subscriber.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/cvl/ros_whill_ws/src/ros_whill/src/whill_imu_gps_subscriber.cpp:27:56:[m[K [01;31m[Kerror: [m[K‘[01m[Kodom_file[m[K’ was not declared in this scope
+   27 |     if (!gps_file.is_open() || !imu_file.is_open() || ![01;31m[Kodom_file[m[K.is_open()) {
+      |                                                        [01;31m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/ros_whill_encoder_subscriber.dir/build.make:63: CMakeFiles/ros_whill_encoder_subscriber.dir/src/whill_encoder_subscriber.cpp.o] エラー 1
+make[1]: *** [CMakeFiles/Makefile2:405: CMakeFiles/ros_whill_encoder_subscriber.dir/all] エラー 2
+make[1]: *** 未完了のジョブを待っています....
+make[2]: *** [CMakeFiles/ros_whill_imu_gps_subscriber.dir/build.make:63: CMakeFiles/ros_whill_imu_gps_subscriber.dir/src/whill_imu_gps_subscriber.cpp.o] エラー 1
+make[1]: *** [CMakeFiles/Makefile2:1250: CMakeFiles/ros_whill_imu_gps_subscriber.dir/all] エラー 2
+make: *** [Makefile:141: all] エラー 2

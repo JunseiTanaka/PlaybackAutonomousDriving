@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/Packet.cpp
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+string.h
+-
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/PacketParser.cpp
+stdio.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/stdio.h
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/PacketReceiver.cpp
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/SpeedProfile.cpp
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.cpp
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+cmath
+-
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+stdint.h
+-
+vector
+-
+
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/whill_commands.cpp
+WHILL.h
+/home/cvl/ros_whill_ws/src/ros_whill/src/whill/WHILL.h
+stdio.h
+-
+

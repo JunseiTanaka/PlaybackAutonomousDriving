@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cvl/ros_whill_ws/devel/.private/playback_manager/setup.sh

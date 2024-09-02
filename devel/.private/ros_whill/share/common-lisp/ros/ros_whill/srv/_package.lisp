@@ -1,0 +1,10 @@
+(cl:defpackage ros_whill-srv
+  (:use )
+  (:export
+   "SETSPEEDPROFILE"
+   "<SETSPEEDPROFILE-REQUEST>"
+   "SETSPEEDPROFILE-REQUEST"
+   "<SETSPEEDPROFILE-RESPONSE>"
+   "SETSPEEDPROFILE-RESPONSE"
+  ))
+

@@ -1,0 +1,3 @@
+[submodule "src/ros_whill"]
+	path = src/ros_whill
+	url = https://github.com/WHILL/ros_whill.git
